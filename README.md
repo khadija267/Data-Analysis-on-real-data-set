@@ -1,2 +1,2 @@
 # Descriptive Statistics
-using R and Descriptive Statisctics to analyze real world data set of cars
+R function to preform descriptive statistics on real data set of cars and make a report of the result.
